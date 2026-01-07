@@ -1,0 +1,18 @@
+/* Serif font for headings - Lora (warm, elegant serif) */
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap");
+
+/* Sans-serif font for body - Inter (clean, modern) */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap");
+
+/* Zen Maru Gothic font for body text */
+@import url("https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400&display=swap");
+
+/* Custom DarumadropOne font */
+@font-face {
+  font-family: "DarumadropOne";
+  src: url("https://benha-wishlist.s3.ap-southeast-2.amazonaws.com/DarumadropOne.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
