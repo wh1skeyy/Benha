@@ -1,11 +1,13 @@
 {
   "name": "@figma/my-make-file",
+  "homepage": "https://wh1skey.github.io/Benha",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "dev": "vite"
+    "dev": "vite",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
